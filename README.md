@@ -12,3 +12,6 @@ There are several tests available in the same solution to check if the methods a
 ```CharacterStatsAndLevelTest.cs``` Tests for characters.
 
 ```EquipmentTest.cs``` Tests for equipping weapons and armors.
+
+## 
+### Feel free to fork this project and try it out! :)
