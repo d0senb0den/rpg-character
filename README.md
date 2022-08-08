@@ -1,7 +1,8 @@
 # RPG-Character
 
 This is a simple console application using the programming language c#.
-You can create characters and equip armors and weapons to increase their damage and other stats such as Name, Level, Attributes.
+You can create characters and equip armors and weapons to increase their damage and attributes.
+You can also display other stats such as name, level and the equipment that you have created for your character.
 The reason behind the application was mainly to try out object oriented programming and testing.
 
 ## Testing
