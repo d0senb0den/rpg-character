@@ -1,0 +1,15 @@
+C:\Users\PGills\source\repos\RPGcharacters\RPGcharacters\bin\Debug\net6.0\RPGcharacters.exe
+C:\Users\PGills\source\repos\RPGcharacters\RPGcharacters\bin\Debug\net6.0\RPGcharacters.deps.json
+C:\Users\PGills\source\repos\RPGcharacters\RPGcharacters\bin\Debug\net6.0\RPGcharacters.runtimeconfig.json
+C:\Users\PGills\source\repos\RPGcharacters\RPGcharacters\bin\Debug\net6.0\RPGcharacters.dll
+C:\Users\PGills\source\repos\RPGcharacters\RPGcharacters\bin\Debug\net6.0\RPGcharacters.pdb
+C:\Users\PGills\source\repos\RPGcharacters\RPGcharacters\obj\Debug\net6.0\RPGcharacters.csproj.AssemblyReference.cache
+C:\Users\PGills\source\repos\RPGcharacters\RPGcharacters\obj\Debug\net6.0\RPGcharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PGills\source\repos\RPGcharacters\RPGcharacters\obj\Debug\net6.0\RPGcharacters.AssemblyInfoInputs.cache
+C:\Users\PGills\source\repos\RPGcharacters\RPGcharacters\obj\Debug\net6.0\RPGcharacters.AssemblyInfo.cs
+C:\Users\PGills\source\repos\RPGcharacters\RPGcharacters\obj\Debug\net6.0\RPGcharacters.csproj.CoreCompileInputs.cache
+C:\Users\PGills\source\repos\RPGcharacters\RPGcharacters\obj\Debug\net6.0\RPGcharacters.dll
+C:\Users\PGills\source\repos\RPGcharacters\RPGcharacters\obj\Debug\net6.0\refint\RPGcharacters.dll
+C:\Users\PGills\source\repos\RPGcharacters\RPGcharacters\obj\Debug\net6.0\RPGcharacters.pdb
+C:\Users\PGills\source\repos\RPGcharacters\RPGcharacters\obj\Debug\net6.0\RPGcharacters.genruntimeconfig.cache
+C:\Users\PGills\source\repos\RPGcharacters\RPGcharacters\obj\Debug\net6.0\ref\RPGcharacters.dll

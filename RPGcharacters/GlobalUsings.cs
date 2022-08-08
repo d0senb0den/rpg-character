@@ -1,0 +1,9 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using RPGcharacters.Characters;
+global using RPGcharacters.Enums;
+global using RPGcharacters.Equipments;
+global using RPGcharacters.CustomExceptions;
